@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Taesun Yeoum
 tagline:          'The personal website of Taesun Yeoum'
 url:              http://tsyoum.github.io
-paginate:         1
-baseurl:          http://tsyoum.github.io/poole/
+paginate:         3
+baseurl:          /
 author:
   name:           'Taesun Yeoum'
   url:            https://twitter.com/mdo

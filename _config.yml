@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
+title:            Taesun Yeoum
+tagline:          'The personal website of Taesun Yeoum'
+url:              http://tsyoum.github.io
+paginate:         3
 baseurl:          /
 author:
-  name:           Mark Otto
+  name:           'Taesun Yeoum'
   url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  email:          tsyoum@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/tsyoum/poole

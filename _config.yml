@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Taesun Yeoum
 tagline:          'The personal website of Taesun Yeoum'
 url:              http://tsyoum.github.io
-paginate:         3
+paginate:         2
 baseurl:          /
 author:
   name:           'Taesun Yeoum'
@@ -16,4 +16,6 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/tsyoum/poole
+  repo:           github.com/tsyoum/tsyoum.github.io
+
+pages_list:       { 'About':'/about', 'Archive':'/archive' }

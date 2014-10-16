@@ -10,7 +10,7 @@ paginate:         2
 baseurl:          /
 author:
   name:           'Taesun Yeoum'
-  url:            https://twitter.com/mdo
+  url:            http://tsyoum.github.io/
   email:          tsyoum@gmail.com
 
 # Custom vars
